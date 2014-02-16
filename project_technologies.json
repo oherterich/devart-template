@@ -5,12 +5,12 @@
         ],
         "platforms": [
             "openFrameworks"
-        ],
+        ]
     },
     "themes": [
         "Human - Computer Interaction",
         "Imagination",
-        "Relationships"
+        "Relationships",
         "Collage"
     ]
 }
